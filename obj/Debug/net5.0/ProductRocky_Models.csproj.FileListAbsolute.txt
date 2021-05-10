@@ -1,0 +1,12 @@
+C:\Users\ramis\Desktop\asp udemy\ProductRocky_Models\obj\Debug\net5.0\ProductRocky_Models.csprojAssemblyReference.cache
+C:\Users\ramis\Desktop\asp udemy\ProductRocky_Models\obj\Debug\net5.0\ProductRocky_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\asp udemy\ProductRocky_Models\obj\Debug\net5.0\ProductRocky_Models.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\asp udemy\ProductRocky_Models\obj\Debug\net5.0\ProductRocky_Models.AssemblyInfo.cs
+C:\Users\ramis\Desktop\asp udemy\ProductRocky_Models\obj\Debug\net5.0\ProductRocky_Models.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\asp udemy\ProductRocky_Models\bin\Debug\net5.0\ProductRocky_Models.deps.json
+C:\Users\ramis\Desktop\asp udemy\ProductRocky_Models\bin\Debug\net5.0\ProductRocky_Models.dll
+C:\Users\ramis\Desktop\asp udemy\ProductRocky_Models\bin\Debug\net5.0\ref\ProductRocky_Models.dll
+C:\Users\ramis\Desktop\asp udemy\ProductRocky_Models\bin\Debug\net5.0\ProductRocky_Models.pdb
+C:\Users\ramis\Desktop\asp udemy\ProductRocky_Models\obj\Debug\net5.0\ProductRocky_Models.dll
+C:\Users\ramis\Desktop\asp udemy\ProductRocky_Models\obj\Debug\net5.0\ref\ProductRocky_Models.dll
+C:\Users\ramis\Desktop\asp udemy\ProductRocky_Models\obj\Debug\net5.0\ProductRocky_Models.pdb
